@@ -1,4 +1,4 @@
-<strong>Bonjour je suis MABOU Sommet Economètre Statisticien.</strong>
+<strong><font size="4">Bonjour je suis MABOU Sommet Economètre Statisticien.</font></strong>
 
 <h2> A propos de moi </h2>
 Passioné par l'analyse et le traitement de données pour la prise de decision,
